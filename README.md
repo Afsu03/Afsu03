@@ -1,126 +1,144 @@
-<h1 align="center">
+<div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=DB2777&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Afsana+Kathoon;CSE+Student+%7C+Full-Stack+Developer;Salesforce+Learner+%7C+AI%2FML+Enthusiast;Building+scalable%2C+intelligent+solutions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=F48FB1&center=true&vCenter=true&width=800&lines=AFSANA+KATHOON;DEVELOPER+%E2%80%A2+FULL-STACK+EXPLORER;SALESFORCE+LEARNER+%E2%80%A2+AI%2FML+ENTHUSIAST" alt="Banner Typing SVG" />
   </a>
-</h1>
+</div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Full--Stack%20%26%20AI%2FML-FFF0F5?style=for-the-badge&labelColor=FFF0F5&color=DB2777" alt="Focus" />
-  <img src="https://img.shields.io/badge/Platform-Salesforce%20Flows-FFF0F5?style=for-the-badge&labelColor=FFF0F5&color=DB2777" alt="Salesforce" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-FFF0F5?style=for-the-badge&labelColor=FFF0F5&color=DB2777" alt="Status" />
-</p>
+# Afsana Kathoon
 
----
+**Developer • Full-Stack Explorer • Salesforce Learner • AI/ML Enthusiast**
 
-## 👩‍💻 About Me
-
-Driven **Computer Science & Engineering student** with a passion for building full-stack web applications, integrating AI/ML models, and exploring cloud CRM platforms like Salesforce. I thrive at the intersection of logical problem-solving, intuitive UI design, and scalable backend architecture.
-
-- 🎓 **Education:** Computer Science & Engineering Student
-- 📍 **Location:** Coimbatore, Tamil Nadu, India
-- 💡 **Interests:** Full-Stack Web Development, AI/ML, Salesforce Ecosystem
-- 🎯 **Goal:** Building impactful software solutions and continuous tech exploration
+Building real-world applications, intelligent AI models, and modern web experiences.
 
 ---
 
-## 🌱 Currently Learning & Exploring
+### ✦ Stack
 
-- 🧠 **Advanced AI/ML Architectures** & Model Deployment
-- ⚡ **Salesforce Development** & Complex Flow Automations
-- ⚛️ **Modern React Patterns** & Scalable Node.js Services
-
----
-
-## 💻 Tech Stack
-
-### 🔤 Languages
+#### Languages
 <p>
-  <img src="https://img.shields.io/badge/Java-FFF0F6?style=for-the-badge&logo=openjdk&logoColor=DB2777" alt="Java" />
-  <img src="https://img.shields.io/badge/Python-FFF0F6?style=for-the-badge&logo=python&logoColor=DB2777" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-FFF0F6?style=for-the-badge&logo=javascript&logoColor=DB2777" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-FFF0F6?style=for-the-badge&logo=html5&logoColor=DB2777" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-FFF0F6?style=for-the-badge&logo=css3&logoColor=DB2777" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
-### 🌐 Web Development
+#### Frontend
 <p>
-  <img src="https://img.shields.io/badge/React.js-FFF0F6?style=for-the-badge&logo=react&logoColor=DB2777" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-FFF0F6?style=for-the-badge&logo=nodedotjs&logoColor=DB2777" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-FFF0F6?style=for-the-badge&logo=express&logoColor=DB2777" alt="Express" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
-### 🗄️ Databases & Cloud CRM
+#### Backend
 <p>
-  <img src="https://img.shields.io/badge/MySQL-FFF0F6?style=for-the-badge&logo=mysql&logoColor=DB2777" alt="MySQL" />
-  <img src="https://img.shields.io/badge/MongoDB-FFF0F6?style=for-the-badge&logo=mongodb&logoColor=DB2777" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Salesforce-FFF0F6?style=for-the-badge&logo=salesforce&logoColor=DB2777" alt="Salesforce" />
-  <img src="https://img.shields.io/badge/Salesforce_Flows-FFF0F6?style=for-the-badge&logo=salesforce&logoColor=DB2777" alt="Salesforce Flows" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/REST_APIs-0055DA?style=flat&logo=fastapi&logoColor=white" alt="REST APIs" />
 </p>
 
-### 🤖 AI / ML & Developer Tools
+#### Database & Cloud CRM
 <p>
-  <img src="https://img.shields.io/badge/AI%2FML-FFF0F6?style=for-the-badge&logo=scikitlearn&logoColor=DB2777" alt="AI/ML" />
-  <img src="https://img.shields.io/badge/Git-FFF0F6?style=for-the-badge&logo=git&logoColor=DB2777" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-FFF0F6?style=for-the-badge&logo=github&logoColor=DB2777" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS_Code-FFF0F6?style=for-the-badge&logo=visualstudiocode&logoColor=DB2777" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Postman-FFF0F6?style=for-the-badge&logo=postman&logoColor=DB2777" alt="Postman" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=flat&logo=salesforce&logoColor=white" alt="Salesforce" />
+  <img src="https://img.shields.io/badge/Salesforce_Flows-00A1E0?style=flat&logo=salesforce&logoColor=white" alt="Salesforce Flows" />
+</p>
+
+#### Tools & DevOps
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman" />
+</p>
+
+#### AI / Intelligent Systems
+<p>
+  <img src="https://img.shields.io/badge/AI_Applications-8E44AD?style=flat&logo=probot&logoColor=white" alt="AI Applications" />
+  <img src="https://img.shields.io/badge/Machine_Learning-3498DB?style=flat&logo=scikitlearn&logoColor=white" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/Predictive_Models-E74C3C?style=flat&logo=python&logoColor=white" alt="Predictive Models" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+### ✦ Projects
 
-### 🧠 Alzheimer Prediction & Patient Support System
-Machine learning predictive model coupled with a patient support portal for early risk assessment and care management.  
-**Tech:** `Python` • `AI/ML` • `React`  
-🔗 **[View Repository](https://github.com/Afsu03/Alzheimer-s-Prediction-Patient-Support-System)**
+<table>
+  <thead>
+    <tr>
+      <th align="left">Project</th>
+      <th align="left">Description</th>
+      <th align="left">Links</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>AlzheimerPrediction</b></td>
+      <td>Machine learning predictive model coupled with a patient support portal for early Alzheimer risk assessment and care management.</td>
+      <td>
+        <a href="https://github.com/Afsu03/Alzheimer-s-Prediction-Patient-Support-System">
+          <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td><b>SalesforceHRFlows</b></td>
+      <td>Custom Salesforce solution automating employee leave applications, approval hierarchies, and HR tracking using Flows.</td>
+      <td>
+        <a href="https://github.com/Afsu03">
+          <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td><b>AegisAI</b></td>
+      <td>AI-powered decision intelligence platform helping businesses extract predictive insights and optimize decision workflows.</td>
+      <td>
+        <a href="https://github.com/Afsu03/AegisAI">
+          <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td><b>ReviewShieldAI</b></td>
+      <td>Intelligent review management and sentiment analysis system powered by AI to protect business brand reputation.</td>
+      <td>
+        <a href="https://github.com/Afsu03/ReviewShield-AI">
+          <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
-### 🛡️ Aegis AI – Business Decision Intelligence
-AI-powered decision intelligence platform helping businesses extract predictive insights and optimize decision workflows.  
-**Tech:** `Node.js` • `React` • `MongoDB`  
-🔗 **[View Repository](https://github.com/Afsu03/AegisAI)**
+### ✦ GitHub Overview
 
----
-
-### ☁️ Salesforce Employee Leave & HR Management
-Custom Salesforce solution automating employee leave applications, approval hierarchies, and HR tracking using Flows.  
-**Tech:** `Salesforce` • `Salesforce Flows`  
-🔗 **[View Repository](https://github.com/Afsu03)**
-
----
-
-### 🛡️ ReviewShield AI
-Intelligent review management and sentiment analysis system powered by AI to protect business brand reputation.  
-**Tech:** `Python` • `AI/ML`  
-🔗 **[View Repository](https://github.com/Afsu03/ReviewShield-AI)**
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Afsu03&show_icons=true&theme=rose&bg_color=FFF8FA&title_color=DB2777&text_color=374151&icon_color=DB2777&border_color=FBCFE8&hide_border=false" alt="Afsana's GitHub Stats" width="48%" />
+<div align="center">
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=Afsu03&show_icons=true&theme=dark&bg_color=0D1117&title_color=F48FB1&text_color=E6EDF3&icon_color=F48FB1&border_color=30363D&hide_border=false" alt="GitHub Stats" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Afsu03&layout=compact&theme=rose&bg_color=FFF8FA&title_color=DB2777&text_color=374151&icon_color=DB2777&border_color=FBCFE8&hide_border=false" alt="Top Languages" width="48%" />
-</p>
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Afsu03&layout=compact&theme=dark&bg_color=0D1117&title_color=F48FB1&text_color=E6EDF3&icon_color=F48FB1&border_color=30363D&hide_border=false" alt="Top Languages" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Afsu03&theme=rose&background=FFF8FA&border=FBCFE8&stroke=DB2777&ring=DB2777&fire=DB2777&currStreakNum=DB2777&sideNums=374151&sideLabels=6B7280&dates=6B7280" alt="GitHub Streak" width="98%" />
-</p>
+<br />
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Afsu03&theme=dark&background=0D1117&border=30363D&stroke=F48FB1&ring=F48FB1&fire=F48FB1&currStreakNum=F48FB1&sideNums=E6EDF3&sideLabels=8B949E&dates=8B949E" alt="GitHub Streak" />
+</div>
 
 ---
 
-## 🤝 Let's Connect
+### ✦ Connect
 
 <p align="center">
   <a href="mailto:afsanakathoon3@gmail.com">
-    <img src="https://img.shields.io/badge/Email-FFF0F6?style=for-the-badge&logo=gmail&logoColor=DB2777" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=F48FB1" alt="Email" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/Afsu03">
-    <img src="https://img.shields.io/badge/GitHub-FFF0F6?style=for-the-badge&logo=github&logoColor=DB2777" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=F48FB1" alt="GitHub" />
   </a>
 </p>
 
