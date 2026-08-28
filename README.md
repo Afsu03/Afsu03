@@ -132,24 +132,21 @@ Building real-world applications, intelligent AI models, and modern web experien
 
 ### ✦ Connect
 
-<p>
+<p align="center">
   <a href="https://www.linkedin.com/in/afsanakathoon3/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-afsanakathoon3-0D1117?style=for-the-badge&logo=linkedin&logoColor=F48FB1&labelColor=0D1117" alt="LinkedIn" />
   </a>
-</p>
-<p>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.salesforce.com/trailblazer/afsana03">
-    <img src="https://img.shields.io/badge/Salesforce_Trailhead-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Trailhead" />
+    <img src="https://img.shields.io/badge/Trailhead-afsana03-0D1117?style=for-the-badge&logo=salesforce&logoColor=F48FB1&labelColor=0D1117" alt="Trailhead" />
   </a>
-</p>
-<p>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:afsanakathoon3@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-afsanakathoon3@gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=F48FB1&labelColor=0D1117" alt="Email" />
   </a>
-</p>
-<p>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/Afsu03">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-Afsu03-0D1117?style=for-the-badge&logo=github&logoColor=F48FB1&labelColor=0D1117" alt="GitHub" />
   </a>
 </p>
 
