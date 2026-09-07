@@ -1,5 +1,3 @@
-<h1 align="center">🌸------------------------------🌸</h1>
-
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=D81B60&center=true&vCenter=true&width=620&lines=Full-Stack+Web+Developer;Salesforce+Flows+%26+Automation;AI%2FML+Enthusiast;Problem+Solver" alt="Typing SVG" />
