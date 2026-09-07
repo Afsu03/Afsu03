@@ -63,30 +63,55 @@ I’m Afsana Kathoon, a Computer Science Engineering student passionate about bu
 
 ## 🚀 Featured Projects
 
-### 🔹 Alzheimer Prediction & Patient Support System  
-AI‑powered system for early Alzheimer detection and patient support.  
-**Tech:** Python, ML, Flask  
-[GitHub Repo](#) | [Live Demo](#)
+## 🚀 Featured Projects
+
+### 🔹 AI-Powered Alzheimer's Risk Assessment System
+AI-powered system for assessing Alzheimer's risk from patient health data.  
+**Tech:** Python, Scikit-learn, Flask, MySQL  
+
+<a href="https://github.com/Afsu03/AlzheimerSystem">
+  <img src="https://img.shields.io/badge/🔗%20View%20Repository-F5B7C5?style=flat-square&logo=github&logoColor=black" />
+</a>
 
 ---
 
-### 🔹 Salesforce Employee Leave & HR Management  
-Automated HR workflows using Salesforce Flows.  
-**Tech:** Salesforce, Apex, Flows  
-[GitHub Repo](#) | [Live Demo](#)
+### 🔹 AegisAI – AI-Assisted Security Operations Platform
+Full-stack SOC platform for security log analysis, threat detection, incident summarization and risk scoring.  
+**Tech:** React, TypeScript, Node.js, Express, PostgreSQL, Prisma, Google Gemini  
+
+<a href="https://github.com/Afsu03/AegisAI">
+  <img src="https://img.shields.io/badge/🔗%20View%20Repository-F5B7C5?style=flat-square&logo=github&logoColor=black" />
+</a>
 
 ---
 
-### 🔹 Aegis AI – Business Decision Intelligence  
-AI‑driven platform for smarter business decisions.  
-**Tech:** React.js, Node.js, MongoDB, ML  
-[GitHub Repo](#) | [Live Demo](#)
+### 🔹 Smart Train Destination Alert System
+Real-time train location tracking and passenger alert system with distance and ETA calculations.  
+**Tech:** Python, MySQL  
+
+<a href="https://github.com/Afsu03/SmartDestinationAlertSystem">
+  <img src="https://img.shields.io/badge/🔗%20View%20Repository-F5B7C5?style=flat-square&logo=github&logoColor=black" />
+</a>
 
 ---
 
-### 🔹 Other Full‑Stack Projects  
-Explore more projects on my GitHub profile.  
-[GitHub Projects](#)
+### 🔹 Fake Review Monitoring System
+NLP-based system for detecting fake and spam product reviews from e-commerce datasets.  
+**Tech:** Python, Scikit-learn, Flask, MySQL  
+
+<a href="https://github.com/Afsu03/ReviewShield_Ai">
+  <img src="https://img.shields.io/badge/🔗%20View%20Repository-F5B7C5?style=flat-square&logo=github&logoColor=black" />
+</a>
+
+---
+
+### 🔹 AG Interiors – Full-Stack Web Project
+Responsive interior website with customer enquiry management backed by MySQL.  
+**Tech:** HTML, CSS, JavaScript, MySQL  
+
+<a href="https://github.com/Afsu03/AG_Interiors">
+  <img src="https://img.shields.io/badge/🔗%20View%20Repository-F5B7C5?style=flat-square&logo=github&logoColor=black" />
+</a>
 
 ---
 
