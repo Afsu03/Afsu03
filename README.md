@@ -10,7 +10,7 @@ I’m Afsana Kathoon, a Computer Science Engineering student passionate about bu
 
 ---
 
-## 🌱 Currently Learning
+## 📈Currently Learning
 - Salesforce Flows & Automation  
 - Advanced React.js + Node.js integrations  
 - AI/ML applications for decision intelligence  
@@ -121,6 +121,5 @@ Explore more projects on my GitHub profile.
 
 ---
 
-## 💡 Quote
 > *“Code is not just logic — it’s creativity expressed in syntax.”*
 
