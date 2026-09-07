@@ -74,9 +74,10 @@ Explore more projects on my GitHub profile.
 
 ## 📈 Contribution & Activity
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&background=000000&ring=F5B7C5&fire=E88BA8&currStreakLabel=F5B7C5&hide_border=true" />
+  <img src="https://img.shields.io/badge/🚀%20Projects%20Shipped-4-F5B7C5?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/🧠%20Problems%20Solved-100+-F5B7C5?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/⚡%20Salesforce%20Badges-25+-F5B7C5?style=for-the-badge&labelColor=000000" />
 </p>
-
 ---
 
 ## 🤝 Let’s Connect
