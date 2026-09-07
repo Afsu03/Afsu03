@@ -1,0 +1,33 @@
+name: Update 3‑D Contribution Graph
+
+on:
+  schedule:
+    - cron: '0 0 * * *'   # daily at 00:00 UTC
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate 3‑D contribution graph
+        uses: acheong08/github-readme-3d-contrib@v1
+        with:
+          user_name: ${{ github.repository_owner }}
+          bg_color: 'F5B7C5'
+          line_color: 'E88BA8'
+          stroke_color: 'E88BA8'
+          theme: 'none'
+          output: 'generated/3d-contrib.svg'
+
+      - name: Commit and push SVG
+        run: |
+          git config --global user.name "${{ github.actor }}"
+          git config --global user.email "${{ github.actor }}@users.noreply.github.com"
+          git add generated/3d-contrib.svg
+          git commit -m "🔄 Update 3‑D contribution graph (auto‑generated)" || echo "No changes to commit"
+          git push

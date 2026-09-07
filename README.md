@@ -146,5 +146,13 @@ Responsive interior website with customer enquiry management backed by MySQL.
 
 ---
 
+<!-- 3‑D contribution graph – soft‑pink theme -->
+<p align="center">
+  <a href="https://github.com/acheong08/github-readme-3d-contrib">
+    <img src="https://github.com/acheong08/github-readme-3d-contrib/blob/master/generated/3d-contrib.svg?username=Afsu03&bg_color=F5B7C5&line_color=E88BA8&stroke_color=E88BA8&theme=none"
+         alt="3D contribution graph">
+  </a>
+</p>
+
 > *“Code is not just logic — it’s creativity expressed in syntax.”*
 
