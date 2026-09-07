@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FCE4EC,50:F8BBD0,100:F48FB1&height=180&section=header&text=Hi%20👋,%20I'm%20Afsana%20Kathoon&fontSize=38&fontColor=4A154B&fontAlignY=55&desc=Full-Stack%20Web%20Developer%20|%20Salesforce%20|%20AI%2FML&descAlignY=62&descAlign=50" />
-</div>
+<h1 align="center">Hi 👋, I'm Afsana Kathoon</h1>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
