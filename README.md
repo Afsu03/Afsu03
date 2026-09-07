@@ -1,15 +1,15 @@
-﻿<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FCE4EC,50:F8BBD0,100:F48FB1&height=180&section=header&text=Hi%20👋,%20I'm%20Afsana%20Kathoon&fontSize=38&fontColor=4A154B&fontAlignY=38&desc=Computer%20Science%20Engineering%20Student%20|%20Full-Stack%20Developer%20|%20Salesforce%20Enthusiast&descSize=15&descColor=6A1B9A&descAlignY=60&animation=fadeIn" width="100%" alt="Afsana Kathoon Header" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FCE4EC,50:F8BBD0,100:F48FB1&height=180&section=header&text=Hi%20👋,%20I'm%20Afsana%20Kathoon&fontSize=38&fontColor=4A154B&fontAlignY=55&desc=Full-Stack%20Web%20Developer%20|%20Salesforce%20|%20AI%2FML&descAlignY=62&descAlign=50" />
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=D81B60&center=true&vCenter=true&width=620&lines=Full-Stack+Web+Developer;Salesforce+Flows+%26+Automation+Learner;AI%2FML+%26+Intelligent+Systems+Enthusiast;Passionate+Problem+Solver" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=D81B60&center=true&vCenter=true&width=620&lines=Full-Stack+Web+Developer;Salesforce+Flows+%26+Automation;AI%2FML+Enthusiast;Problem+Solver" alt="Typing SVG" />
   </a>
 </div>
 
 <p align="center">
-  Motivated Computer Science Engineering student dedicated to crafting scalable full-stack web applications, designing intelligent automation workflows with Salesforce, and exploring practical AI/ML solutions. Passionate about solving complex problems through clean architecture and continuous learning.
+  Motivated Computer Science Engineering student dedicated to crafting scalable full-stack web applications, designing intelligent automation workflows with Salesforce, and exploring practical AI/ML solutions.
 </p>
 
 <div align="center">
@@ -164,15 +164,15 @@
 ### 📊 GitHub & Coding Activity
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Afsu03&show_icons=true&theme=default&bg_color=FFF7F9&title_color=D81B60&text_color=4A4A4A&icon_color=F06292&border_color=F8BBD0&hide_border=false&ring_color=F48FB1" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Afsu03&show_icons=true&theme=default&bg_color=FFF7F9&title_color=D81B60&text_color=4A4A4A&icon_color=F06292&border_color=F8BBD0&border_radius=10" alt="GitHub Stats" />
   &nbsp;
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Afsu03&layout=compact&theme=default&bg_color=FFF7F9&title_color=D81B60&text_color=4A4A4A&border_color=F8BBD0&hide_border=false" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Afsu03&layout=compact&theme=default&bg_color=FFF7F9&title_color=D81B60&text_color=4A4A4A&border_color=F8BBD0&border_radius=10" alt="Top Languages" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Afsu03&theme=light&background=FFF7F9&border=F8BBD0&stroke=F48FB1&ring=F48FB1&fire=F06292&currStreakNum=D81B60&sideNums=4A4A4A&sideLabels=757575&dates=757575&currStreakLabel=D81B60" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Afsu03&theme=light&background=FFF7F9&border=F8BBD0&stroke=F48FB1&ring=F48FB1&fire=F06292&currStreakNum=D81B60&sideNums=4A4A4A&sideTextColor=4A4A4A" alt="GitHub Streak" />
 </div>
 
 <br />
@@ -215,7 +215,3 @@
 </table>
 
 <br />
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F48FB1,50:F8BBD0,100:FCE4EC&height=100&section=footer" width="100%" alt="Footer" />
-</div>
