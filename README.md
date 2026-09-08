@@ -23,13 +23,8 @@
 
 ---
 
-### 🌸 About Me
-
-- 🎓 **Education:** Final-year **Computer Science Engineering** student with strong foundations in software engineering and web technologies.
-- 🚀 **Hands-on Builder:** Fresher actively building real-world full-stack web applications and AI-driven platforms.
-- 💡 **Core Interests:** Passionate about **Full-Stack Development**, **Salesforce CRM & Automation**, and **AI/ML**.
-- 💻 **Problem Solving:** Actively practicing core problem-solving and algorithms in **Java** and **Python**.
-- 🎯 **Career Focus:** Actively seeking **Internship & Entry-Level / Fresher Software Engineer** roles where I can contribute and grow.
+### 🎓 Final-year CSE student & Full-Stack Developer building practical web and AI-driven solutions with Java, Python, React, and Node.js.
+🚀 Exploring Salesforce CRM & Automation | Open to Internship & Entry-Level Software Engineering opportunities.
 
 <br />
 
