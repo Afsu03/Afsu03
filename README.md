@@ -23,8 +23,9 @@
 
 ---
 
-### 🎓 Final-year CSE student & Full-Stack Developer building practical web and AI-driven solutions with Java, Python, React, and Node.js.
-###🚀 Exploring Salesforce CRM & Automation | Open to Internship & Entry-Level Software Engineering opportunities.
+### ✨ Profile
+🎓 Final-year CSE student & Full-Stack Developer building practical web and AI-driven solutions with Java, Python, React, and Node.js.
+🚀 Exploring Salesforce CRM & Automation | Open to Internship & Entry-Level Software Engineering opportunities.
 
 <br />
 
