@@ -1,22 +1,23 @@
+<!-- Hero Image -->
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=D81B60&center=true&vCenter=true&width=620&lines=Full-Stack+Web+Developer;Salesforce+Flows+%26+Automation;AI%2FML+Enthusiast;Problem+Solver" alt="Typing SVG" />
-  </a>
-</div>
-
-<p align="center">
-  Motivated Computer Science Engineering student dedicated to crafting scalable full-stack web applications, designing intelligent automation workflows with Salesforce, and exploring practical AI/ML solutions.
-</p>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Afsu03&style=flat-square&color=F48FB1&labelColor=FCE4EC&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="assets/skills.png" width="92%" alt="Afsana Kathoon - Tech & Creative Workspace" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(244, 143, 177, 0.25);" />
 </div>
 
 <br />
 
-<!-- Hero Image -->
 <div align="center">
-  <img src="assets/skills.png" width="92%" alt="Afsana Kathoon - Tech & Creative Workspace" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(244, 143, 177, 0.25);" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=D81B60&center=true&vCenter=true&width=620&lines=Full-Stack+Web+Developer;Salesforce+Flows+%26+Automation;AI%2FML+Enthusiast;Problem+Solver" alt="Typing SVG" />
+  </a>
+  
+  </div>
+
+<p align="center">
+  I enjoy building things that solve real problems - from full-stack web applications and Salesforce automations to AI/ML-driven solutions that make everyday processes smarter and simpler.
+</p>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Afsu03&style=flat-square&color=F48FB1&labelColor=FCE4EC&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
 
 <br />
