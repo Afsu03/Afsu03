@@ -16,6 +16,12 @@
   I enjoy building things that solve real problems - from full-stack web applications and Salesforce automations to AI/ML-driven solutions that make everyday processes smarter and simpler.
 </p>
 
+<p align="center">
+  <a href="https://afsu03.github.io/My_Portfolio/">
+    <img src="https://img.shields.io/badge/✨%20VISIT%20MY%20PORTFOLIO-000000?style=for-the-badge&logo=googlechrome&logoColor=FFD700&labelColor=FFD700" />
+  </a>
+</p>
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Afsu03&style=flat-square&color=F48FB1&labelColor=FCE4EC&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
