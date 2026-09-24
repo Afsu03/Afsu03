@@ -18,7 +18,7 @@
 
 <p align="center">
   <a href="https://afsu03.github.io/My_Portfolio/">
-    <img src="https://img.shields.io/badge/✨%20VISIT%20MY%20PORTFOLIO-000000?style=for-the-badge&logo=googlechrome&logoColor=FFD700&labelColor=FFD700" />
+    <img src="https://img.shields.io/badge/💗%20VISIT%20MY%20PORTFOLIO-FFB6C1?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=FF69B4" />
   </a>
 </p>
 
